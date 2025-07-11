@@ -17,6 +17,19 @@ Skills Demonstrated:
 - VMware workstation
 
 
+Observation:
+
+Phase 1: Simulate the attack 
+-Access zphisher using VMware kali linux
+-Generated the link for facebook login page using zphisher
+-Copy and paste the link in the email if required for further testing
+
+note: I have not used a sample mail but used virustotal to analyze the link
+
+Phase 2: Analyze the link
+-You can view the virustotal image in the image 4 which 
+
+
 
 
 
