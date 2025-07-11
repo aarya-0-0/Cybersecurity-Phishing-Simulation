@@ -1,7 +1,7 @@
 # Cybersecurity-Phishing-Simulation
 This repository showcases a simulated phishing workflow using Zphisher to generate deceptive login links and VirusTotal to analyze their properties. The project demonstrates how phishing links can mimic legitimate websites by comparing visual and structural similarities in a browser, helping raise awareness of digital threats. 
 
-Objectives: This project tries to demonstrate phishing attack attack is carried out by simulating it in a virtual and safe environment for educational purposes.
+Objectives: To demonstrate phishing attack attack is carried out by simulating it in a virtual and safe environment for educational purposes.
 
 Tools Used:
 -Kali Linux
